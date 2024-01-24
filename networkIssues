@@ -22,6 +22,7 @@ hot-swap 不需要关机
 cold-swap 需要关机
 
 笔记本如果不那么亮，可能inverter坏了，inverter是给LCD显示器供电的: convert DC current to AC current.
+flickering monitor, LCD or inverter.
 
 KVM switch：switch one computer to another
 
