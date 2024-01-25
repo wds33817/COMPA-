@@ -52,6 +52,7 @@ Bluetooth: short range radio operating at 2.4 Ghz. 24Mbps, Approx. 100 Meters
 
 Infrared:requires a direct line of sight. In direct sunlight not working.
 
+NAT: network address translation.
 
 MAC ADDRESS: 6 byte hexadecimal number burned into every NIC by its manufacturer.
 
