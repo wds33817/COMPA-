@@ -28,7 +28,8 @@ RG-6 made for long distances
 RG-59 made for short distances
 SMF: single mode fiber for long distance.
 MMF: short distance.
-Modem: converts analog data to digital data.
+Modem: converts analog data to digital data. Max speed is 56 Kbps.
+
 
 笔记本如果不那么亮，可能inverter坏了，inverter是给LCD显示器供电的: convert DC current to AC current.
 flickering monitor, LCD or inverter.
