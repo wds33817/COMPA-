@@ -52,6 +52,9 @@ Bluetooth: short range radio operating at 2.4 Ghz. 24Mbps, Approx. 100 Meters
 
 Infrared:requires a direct line of sight. In direct sunlight not working.
 
+
+MAC ADDRESS: 6 byte hexadecimal number burned into every NIC by its manufacturer.
+
 笔记本如果不那么亮，可能inverter坏了，inverter是给LCD显示器供电的: convert DC current to AC current.
 flickering monitor, LCD or inverter.
 
