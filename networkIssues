@@ -52,6 +52,8 @@ use to look up DNS info
 
 Subnetting: 2^n - 2
 
+SNMP: simple network management protocol.
+
 
 ARP, RARP:
 ARP: map ip to MAC address, RARP: map MAC address to ip address.
