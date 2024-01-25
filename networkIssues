@@ -26,7 +26,8 @@ RJ-45 network connector used with twisted pair cabling, attach network interface
 
 RG-6 made for long distances
 RG-59 made for short distances
-SMF: single mode fiber
+SMF: single mode fiber for long distance.
+MMF: short distance.
 
 
 笔记本如果不那么亮，可能inverter坏了，inverter是给LCD显示器供电的: convert DC current to AC current.
