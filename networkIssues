@@ -62,6 +62,8 @@ Infrared:requires a direct line of sight. In direct sunlight not working.
 
 NAT: network address translation.
 
+SCP: secure copy protocol.
+
 NTP: Network time protocol. 
 
 MAC ADDRESS: 6 byte hexadecimal number burned into every NIC by its manufacturer.
