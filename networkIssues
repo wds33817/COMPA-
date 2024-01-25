@@ -21,6 +21,8 @@ Blu-ray disc can store 25 GB data.
 hot-swap 不需要关机
 cold-swap 需要关机
 
+DHCP relay: help broadcast request to a different subnet. 
+
 RJ-11 is a telephone jack, hinged locking tab connect to modems on computers. (SMALL)
 RJ-45 network connector used with twisted pair cabling, attach network interface cards to hubs or switches. (Large)
 
