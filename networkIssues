@@ -36,7 +36,7 @@ ipv6: 128-bit numeric address
 wire crimper tool:crimp connectors to cables.
 ping 
 traceroute
-Nbtstat
+Nbtstat:resolve bios name to ip address
 
 Bluetooth: short range radio operating at 2.4 Ghz. 24Mbps, Approx. 100 Meters
 
