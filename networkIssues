@@ -42,7 +42,8 @@ ipconfig /all
 ipconfig /renew
 ipconfig /release
 
-
+nslookup / dig yahoo.com 
+use to look up DNS info
 
 Bluetooth: short range radio operating at 2.4 Ghz. 24Mbps, Approx. 100 Meters
 
