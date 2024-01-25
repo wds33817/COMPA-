@@ -233,3 +233,14 @@ harddisk：non-volatile.
    - 联系你的互联网服务提供商（ISP）了解是否有网络中断或服务中断。他们可能会提供有关网络问题的更多信息。
 
 如果你检查了以上问题但仍然无法解决，请考虑联系你的网络管理员或互联网服务提供商以获取更详细的支持。
+
+
+Routing protocols:
+3 types of routing protocols:
+Distance Vector
+Link State
+Hybrid
+
+
+
+
