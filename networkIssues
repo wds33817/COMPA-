@@ -31,7 +31,7 @@ MMF: short distance.
 Modem: converts analog data to digital data. Max speed is 56 Kbps.
 802.11 wireless standards: a, b, g, n, ac 
 
-Bluetooth: short range radio operating at 2.4 Ghz.
+Bluetooth: short range radio operating at 2.4 Ghz. 24Mbps, Approx. 100 Meters
 
 Infrared:requires a direct line of sight. In direct sunlight not working.
 
