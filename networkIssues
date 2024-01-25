@@ -62,6 +62,8 @@ Infrared:requires a direct line of sight. In direct sunlight not working.
 
 NAT: network address translation.
 
+NTP: Network time protocol. 
+
 MAC ADDRESS: 6 byte hexadecimal number burned into every NIC by its manufacturer.
 
 笔记本如果不那么亮，可能inverter坏了，inverter是给LCD显示器供电的: convert DC current to AC current.
