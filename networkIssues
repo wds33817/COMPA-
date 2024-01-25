@@ -34,6 +34,8 @@ Modem: converts analog data to digital data. Max speed is 56 Kbps.
 ipv4: 32-bit numeric address
 ipv6: 128-bit numeric address
 wire crimper tool:crimp connectors to cables.
+ping 
+traceroute
 
 Bluetooth: short range radio operating at 2.4 Ghz. 24Mbps, Approx. 100 Meters
 
