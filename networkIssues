@@ -237,9 +237,30 @@ harddisk：non-volatile.
 
 Routing protocols:
 3 types of routing protocols:
-Distance Vector
+Distance Vector, RIPv2 解决了 RIP的遗留问题
 Link State
 Hybrid
+
+
+BGP: Border Gateway Protocol
+a distance vector protocol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
