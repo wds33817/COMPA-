@@ -53,6 +53,9 @@ use to look up DNS info
 Subnetting: 2^n - 2
 
 
+ARP, RARP:
+ARP: map ip to MAC address, RARP: map MAC address to ip address.
+
 Bluetooth: short range radio operating at 2.4 Ghz. 24Mbps, Approx. 100 Meters
 
 Infrared:requires a direct line of sight. In direct sunlight not working.
