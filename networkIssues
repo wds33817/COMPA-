@@ -267,7 +267,10 @@ nslookup
 Security+:
 credential harvesting: get all credentials in localhost.
  
-Telnet, http, ftp  应用层 第七层
+Telnet(23), http, ftp(20/21), smtp(25), pop3(110), dns(53)  应用层 第七层
+
+MAC address 只在LAN里面有效
+
 
 
 
