@@ -248,10 +248,26 @@ a distance vector protocol
 Link state: OSPF open shortest path first. Creates a topology map of the network.
 
   
+Hybrid protocols: EIGRP(Enhanced interior gateway routing protocol): combination of distance vector and link state protocols.
+
+RTP: real-time transport protocol (unicast, multicast)
+
+SCADA/ICS communicates with sensors and systems in real time.
+
+ping
+pathping(combine ping and tracert)
+arp ping(not blocked by firewall)
+traceroute
+nbtstat: resolve betbios names to IP addresses.
+arp -a
+netstat
+nslookup
 
 
-
-
+Security+:
+credential harvesting: get all credentials in localhost.
+ 
+Telnet, http, ftp  应用层 第七层
 
 
 
