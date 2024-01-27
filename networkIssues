@@ -257,7 +257,7 @@ SCADA/ICS communicates with sensors and systems in real time.
 ping
 pathping(combine ping and tracert)
 arp ping(not blocked by firewall)
-traceroute
+traceroute/Tracert
 nbtstat: resolve betbios names to IP addresses.
 arp -a
 netstat
